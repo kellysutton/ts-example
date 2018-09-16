@@ -2,7 +2,7 @@ import * as React from 'react';
 
 function App() {
   return (
-    <div className="container" data-testid="toggle-container">
+    <div>
       <p>Hello, Typescript!</p>
     </div>
   );
